@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/atualizador_de_campo" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
